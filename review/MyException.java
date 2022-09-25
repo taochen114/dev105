@@ -7,6 +7,7 @@ public class MyException extends Exception{
         this.id = id ;//test
         //feature/task1  change
         // main local
+        //main local2
     }
 
     public int getId() {
