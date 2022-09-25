@@ -6,6 +6,7 @@ public class MyException extends Exception{
         super(message);// create fenzhi01
         this.id = id ;//test
         //feature/task1  change
+        // main local
     }
 
     public int getId() {
