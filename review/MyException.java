@@ -5,6 +5,7 @@ public class MyException extends Exception{
     public MyException(String message, int id){
         super(message);// create fenzhi01
         this.id = id ;//test
+        // main local
     }
 
     public int getId() {
